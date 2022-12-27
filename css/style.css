@@ -1,0 +1,178 @@
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+.logo {
+    vertical-align: middle;
+}
+
+ul {
+    display: inline-block;
+}
+
+.navigation-text {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50px;
+}
+
+.main,
+.news,
+.contact {
+    color: #3d58a6;
+    font-size: 22px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+.active {
+    color: red;
+}
+
+.container-margin {
+    margin-left: 60px;
+
+}
+
+.banner {
+    margin-top: 70px;
+}
+
+.container-title {
+    margin-top: 125px;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-box {
+    margin-top: 33px;
+}
+
+.box {
+    padding: 18px;
+    background-color: #f2f2f2;
+    width: 570px;
+    height: 225px;
+    display: inline-block;
+
+}
+
+.box-title {
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    color: #3d58a6;
+}
+
+.cursor {
+    margin-top: 18px;
+    vertical-align: middle;
+}
+
+
+
+.box-text {
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 60px;
+    width: 356px;
+    vertical-align: middle;
+    line-height: 1.1;
+}
+
+footer {
+    margin-top: 70px;
+}
+
+.line {
+    display: inline-block;
+    width: 1px;
+    height: 28px;
+    background-color: #3d58a6;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.articles {
+    margin-top: 40px;
+}
+
+
+.may {
+    background: #3d58a6;
+    width: 50px;
+    height: 50px;
+    padding: 18px;
+}
+
+.may-text {
+    color: white;
+}
+
+.may-may {
+    margin-top: 10px;
+    color: #3d58a6;
+    font-size: 22px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+.articles-news {
+    margin-top: 30px;
+}
+
+.news-title {
+    margin-bottom: 16px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+
+}
+
+
+.code {
+    vertical-align: top;
+}
+
+.news-text{
+    width: 800px;
+    display: inline-block;
+    margin-left: 40px;
+    font-family: "BPG Ingiri Arial", sans-serif;
+    line-height: 1.1;
+}
+
+.container-news {
+    margin-bottom: 40px;
+}
+
+.main-contact{
+    padding: 30px;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.contact-contact{
+    width: 238px;
+    display: inline-block;
+}
+
+.contact-h2{
+    font-size: 20px;
+    color: #3d58a6;
+    font-weight: 600;
+}
+
+.contact-p{
+    margin-top: 3px;
+    
+}
+
+
+.map{
+    display: inline-block;
+}
